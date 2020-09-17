@@ -24,4 +24,6 @@ I approached the problem as a multi-class classification problem. The final mode
 - Optuna for Hyperparameter Tuning
 - XgBoost
 
+## Reference 
+See the Zindi link for additional information and to download the data: https://zindi.africa/competitions/zimnat-insurance-recommendation-challenge
 
