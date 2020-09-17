@@ -1,6 +1,7 @@
 # Zimnat-Insurance-Recommendation
 Zimnat Insurance Recommendation - Zindi Africa Data Science Competition
 
+------ 
 
 ## Overview and Objective
 
@@ -16,10 +17,11 @@ A target variable was not explicitly given, therefore we had to structure the da
 I approached the problem as a multi-class classification problem. The final model was using the XgBoost Algorithm and I was able to obtain stable and decent score of 0.277 LogLoss.
 
 
-## Tools Used
+## Tools/Libraries Used
 
-- Pandas,Numpy and various Sklearn packages
+- Pandas,Numpy,Matplotlib and various Sklearn packages
 - SMOTE Technique for oversampling
+- Optuna for Hyperparameter Tuning
 - XgBoost
 
 
